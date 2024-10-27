@@ -10,4 +10,7 @@ package com.relampamigos.codeWars;
         ('*', 5, 5) --> 25
         ('/', 49, 7) --> 7*/
 public class OperationMathematics {
+    public static void main(String[] args) {
+        
+    }
 }
